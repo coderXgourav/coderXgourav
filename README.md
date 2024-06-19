@@ -14,7 +14,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=A&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 
-## 😂 I Love Memes
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
